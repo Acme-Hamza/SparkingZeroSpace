@@ -1,0 +1,185 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #1a1a1a; /* Dark background */
+    color: #00bfff; /* Sparking blue for body text */
+}
+
+header {
+    background: linear-gradient(360deg, #00bfff, #00a2ff); /* Gradient header */
+    padding: 20px;
+    text-align: center; /* Center the header text */
+}
+
+h1 {
+    font-size: 3rem; /* Larger text */
+    color: #ffffff; /* White for main header text */
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 1); /* Glow and shadow effect */
+}
+
+h2 {
+    font-size: 2rem; /* Subheader font size */
+    color: #00bfff; /* Sparking blue color for subheader */
+    text-shadow: 0 0 10px rgba(0, 191, 255, 0.8); /* Glow effect for subheader */
+    margin-top: 10px; /* Space above subheader */
+}
+
+.nav-header {
+    color: #ffd700; /* Golden for nav links */
+    font-weight: bold;
+    font-size: 1.5rem; /* Increase font size for emphasis */
+    text-shadow: 0 0 10px rgba(255, 215, 0, 1); /* Glow effect for nav links */
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Horizontal layout */
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffd700; /* Golden color for nav links */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem; /* Increase link size */
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.8); /* Add glow effect */
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #2a2a2a; /* Darker section background */
+    transition: box-shadow 0.3s ease; /* Smooth transition for glow effect */
+}
+
+section:hover {
+    box-shadow: 0 0 25px gold; /* Enhanced golden glow on hover */
+}
+
+.menu-container {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    justify-content: space-between;
+}
+
+label {
+    margin-right: 10px;
+    color: #ffd700; /* Golden for labels */
+    font-size: 1.5rem; /* Larger font size for emphasis */
+    font-weight: bold; /* Bold text for emphasis */
+    text-shadow: 0 0 10px gold; /* Golden glow for labels */
+}
+
+.custom-select {                                                        
+    position: relative;
+    display: inline-block;
+    width: 30%; /* Reduced width for dropdowns */
+}
+
+.select-box {
+    display: flex;
+    justify-content: center; /* Center text */
+    align-items: center; /* Center vertically */
+    background-color: #1a1a1a; /* Dark background for dropdown */
+    padding: 6px; /* Smaller capsule shape */
+    border-radius: 15px; /* Capsule border */
+    cursor: pointer;
+    border: 2px solid #00bfff; /* Sparking blue border */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Transition for glow effect */
+    font-size: 1.2rem; /* Larger text */
+    color: #00bfff; /* Sparking blue text */
+    text-shadow: 0 0 10px rgba(0, 191, 255, 1), 0 0 20px rgba(0, 191, 255, 0.5); /* Glow effect for buttons */
+}
+
+.select-box:hover {
+    background-color: #444; /* Darker background on hover */
+    box-shadow: 0 0 20px rgba(0, 191, 255, 1); /* Glow effect on hover */
+}
+
+.select-options {
+    position: absolute;
+    background-color: #1a1a1a; /* Dark background for dropdown options */
+    display: none; /* Hide by default */
+    width: 100%;
+    border-radius: 15px; /* Capsule shape */
+    z-index: 1;
+    padding: 0; /* Remove padding to prevent bullet points */
+}
+
+.select-options li {
+    list-style: none; /* Ensure no bullet points */
+}
+
+.option {
+    padding: 8px; /* Adjust padding for smaller size */
+    cursor: pointer;
+    color: #00bfff; /* Sparking blue text for options */
+    text-align: center; /* Center text in options */
+    font-size: 1.4rem; /* Increased font size */
+    text-shadow: 0 0 10px rgba(0, 191, 255, 1), 0 0 20px rgba(0, 191, 255, 0.5); /* Glow effect for options */
+}
+
+.option:hover {
+    background-color: #00aaff; /* Darker sparking blue on hover */
+    color: #ffd700; /* Golden text on hover */
+    box-shadow: 0 0 10px rgba(0, 191, 255, 1); /* Glow effect on hover */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #2a2a2a; /* Dark footer background */
+    box-shadow: 0 -2px 10px rgba(0, 191, 255, 0.5); /* Glow effect for footer */
+}
+
+/* Enhanced content area styles */
+.content-area {
+    padding: 20px;
+    background-color: #2a2a2a; /* Dark content area */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 15px gold; /* Add golden glow effect */
+    transition: box-shadow 0.3s ease; /* Smooth transition for glow effect */
+    box-shadow: 0 0 25px gold; /* Golden glow always present */
+}
+
+/* Adjustments for golden text */
+.yellow-text {
+    color: #ffd700; /* Golden color */
+    font-size: 1.5rem; /* Larger text */
+    font-weight: bold; /* Bold text for emphasis */
+    text-shadow: 0 0 10px gold; /* Golden glow for emphasis */
+}
+
+/* New styles for sparking blue headings and glowing effects */
+.sparking-blue {
+    color: #00bfff; /* Sparking blue */
+    font-weight: bold; /* Bold text */
+    text-shadow: 0 0 10px rgba(0, 191, 255, 1); /* Glow effect */
+}
+
+.nav-link {
+    color: #ffd700; /* Golden color for nav links */
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.8); /* Glow effect */
+}
+
+.select-options {
+    display: none; /* Hide by default */
+    position: absolute; /* Position it properly */
+    background-color: #1a1a1a;
+    border: 1px solid #ccc;
+    z-index: 100; /* Make sure it’s on top */
+}
+
+.select-options.active {
+    display: block; /* Show when active */
+}
+
+.custom-select {
+    position: relative; /* Needed for absolute positioning of options */
+}

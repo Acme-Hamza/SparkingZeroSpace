@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Guides and team recommendations for Dragon Ball Sparking Zero.">
+    <title>Sparking Zero Space</title> <!-- Updated title -->
+    <link rel="stylesheet" href="resources/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Sparking Zero Space!</h1>
+        <nav>
+            <ul>
+                <li><a href="#character-select">Character Select</a></li>
+                <li><a href="#character-info">Character Info</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="character-select">
+        <h2>Character Select</h2>
+        <p>Select a character to view recommendations.</p>
+
+        <div class="menu-container">
+            <label for="character">Choose a Character:</label>
+            <div class="custom-select">
+                <div class="select-box">
+                    <span class="selected">Select Character</span>
+                    <div class="caret"></div>
+                </div>
+                <ul class="select-options">
+                    <li class="option" data-value="Goku (Z - Early)">Goku (Z - Early)</li>
+                    <li class="option" data-value="Goku (Z - Mid)">Goku (Z - Mid)</li>
+                    <li class="option" data-value="Goku (Z - Mid) Super Saiyan">Goku (Z - Mid) Super Saiyan</li>
+                    <li class="option" data-value="Goku (Z - End)">Goku (Z - End)</li>
+                    <li class="option" data-value="Goku (Z - End) Super Saiyan">Goku (Z - End) Super Saiyan</li>
+                    <li class="option" data-value="Goku (Z - End) Super Saiyan 2">Goku (Z - End) Super Saiyan 2</li>
+                    <li class="option" data-value="Goku (Z - End) Super Saiyan 3">Goku (Z - End) Super Saiyan 3</li>
+                    <li class="option" data-value="Goku (Super)">Goku (Super)</li>
+                    <li class="option" data-value="Goku (Super) Super Saiyan">Goku (Super) Super Saiyan</li>
+                    <li class="option" data-value="Goku (Super) Super Saiyan God">Goku (Super) Super Saiyan God</li>
+                    <li class="option" data-value="Goku (Super) Super Saiyan God Super Saiyan">Goku (Super) Super Saiyan God Super Saiyan</li>
+                    <li class="option" data-value="Goku (Super) Ultra Instinct -Sign-">Goku (Super) Ultra Instinct -Sign-</li>
+                    <li class="option" data-value="Goku (Super) Ultra Instinct">Goku (Super) Ultra Instinct</li>
+                    <li class="option" data-value="Vegeta(Super)">Vegeta(Super)</li>
+                    <li class="option" data-value="Frieza(Super)">Frieza(Super)</li>
+                    <li class="option" data-value="Broly(Super)">Broly(Super)</li>
+                    <li class="option" data-value="Vegito">Vegito</li>
+                    <li class="option" data-value="Super Vegito">Super Vegito</li>
+                    <li class="option" data-value="Vegito Blue">Vegito Blue</li>
+                    <li class="option" data-value="Gogeta(Super)">Gogeta(Super)</li>
+                    <li class="option" data-value="Super Saiyan Gogeta(Super)">Super Saiyan Gogeta(Super)</li>
+                    <li class="option" data-value="Gogeta Blue">Gogeta Blue</li>
+                    <li class="option" data-value="Super Gogeta">Super Gogeta</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="character-info">
+        <h2>Character Info</h2>
+        <p>Discover each character's stats and abilities.</p>
+        <div class="guide-content" id="gen-guide">
+            <!-- Character details will load here dynamically -->
+        </div>
+        <div id="fusion"></div>
+        <div id="transformations"></div>
+    </section>
+
+    <section id="raw-stats">
+        <h2>Character Raw Stats</h2>
+        <p>Sort characters based on their raw stats.</p>
+
+        <div class="menu-container">
+            <label for="stats">Sort by Stats:</label>
+            <div class="custom-select">
+                <div class="select-box">
+                    <span class="selected">Highest Overall Stats</span>
+                    <div class="caret"></div>
+                </div>
+                <ul class="select-options">
+                    <li class="option" data-value="highest-ovr">Highest Overall Stats</li>
+                    <li class="option" data-value="attack">Attack</li>
+                    <li class="option" data-value="defense">Defense</li>
+                    <li class="option" data-value="speed">Speed</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to reach out!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sparking Zero Space</p>
+    </footer>
+
+    <script src="resources/dropdown.js"></script>
+    <script src="resources/data-fetch.js"></script>
+</body>
+</html>

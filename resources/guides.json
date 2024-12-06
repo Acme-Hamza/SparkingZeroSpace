@@ -1,0 +1,143 @@
+{
+  "guides": {
+    "Goku(Super)": {
+      "DP Battle": {
+        "strategies": {
+        "General": {
+        "description": "A well-rounded character with balanced offense and defense.",
+        "mode1": "General guide content for mode 1...",
+        "mode2": "General guide content for mode 2..."
+      },
+        "Sparking": {
+          "description": "Sparking strategy focuses on aggressive damage output.",
+          "mode1": "Sparking-specific content for mode 1...",
+          "mode2": "Sparking-specific content for mode 2..."
+        },
+        "Fusion": {
+          "description": "Fusion strategy emphasizes combining units to increase synergy.",
+          "mode1": "Fusion-specific content for mode 1...",
+          "mode2": "Fusion-specific content for mode 2..."
+        },
+        "Survivability":{
+          "description": "Survivability strategy focuses on countering and preventing your oponent from entering sparking mode"
+        }
+      }
+      },
+      "Single Battle":{
+        "strategies": {
+        "General": {
+        "description": "A well-rounded character with balanced offense and defense.",
+        "mode1": "General guide content for mode 1...",
+        "mode2": "General guide content for mode 2..."
+      },
+        "Sparking": {
+          "description": "Sparking strategy focuses on aggressive damage output.",
+          "mode1": "Sparking-specific content for mode 1...",
+          "mode2": "Sparking-specific content for mode 2..."
+        },
+        "Fusion": {
+          "description": "Fusion strategy emphasizes combining units to increase synergy.",
+          "mode1": "Fusion-specific content for mode 1...",
+          "mode2": "Fusion-specific content for mode 2..."
+        },
+        "Survivability":{
+          "description": "Survivability strategy focuses on countering and preventing your oponent from entering sparking mode"
+        }
+      }
+      },
+      "Team Battle":{
+        "strategies": {
+        "General": {
+        "description": "A well-rounded character with balanced offense and defense.",
+        "mode1": "General guide content for mode 1...",
+        "mode2": "General guide content for mode 2..."
+      },
+        "Sparking": {
+          "description": "Sparking strategy focuses on aggressive damage output.",
+          "mode1": "Sparking-specific content for mode 1...",
+          "mode2": "Sparking-specific content for mode 2..."
+        },
+        "Fusion": {
+          "description": "Fusion strategy emphasizes combining units to increase synergy.",
+          "mode1": "Fusion-specific content for mode 1...",
+          "mode2": "Fusion-specific content for mode 2..."
+        },
+        "Survivability":{
+          "description": "Survivability strategy focuses on countering and preventing your oponent from entering sparking mode"
+        }
+      }
+      }
+      
+      
+    },
+    "Vegeta(Super)": {
+      "DP Battle": {
+        "strategies": {
+        "General": {
+        "description": "A well-rounded character with balanced offense and defense.",
+        "mode1": "General guide content for mode 1...",
+        "mode2": "General guide content for mode 2..."
+      },
+        "Sparking": {
+          "description": "Sparking strategy focuses on aggressive damage output.",
+          "mode1": "Sparking-specific content for mode 1...",
+          "mode2": "Sparking-specific content for mode 2..."
+        },
+        "Fusion": {
+          "description": "Fusion strategy emphasizes combining units to increase synergy.",
+          "mode1": "Fusion-specific content for mode 1...",
+          "mode2": "Fusion-specific content for mode 2..."
+        },
+        "Survivability":{
+          "description": "Survivability strategy focuses on countering and preventing your oponent from entering sparking mode"
+        }
+      }
+      },
+      "Single Battle":{
+        "strategies": {
+        "General": {
+        "description": "A well-rounded character with balanced offense and defense.",
+        "mode1": "General guide content for mode 1...",
+        "mode2": "General guide content for mode 2..."
+      },
+        "Sparking": {
+          "description": "Sparking strategy focuses on aggressive damage output.",
+          "mode1": "Sparking-specific content for mode 1...",
+          "mode2": "Sparking-specific content for mode 2..."
+        },
+        "Fusion": {
+          "description": "Fusion strategy emphasizes combining units to increase synergy.",
+          "mode1": "Fusion-specific content for mode 1...",
+          "mode2": "Fusion-specific content for mode 2..."
+        },
+        "Survivability":{
+          "description": "Survivability strategy focuses on countering and preventing your oponent from entering sparking mode"
+        }
+      }
+      },
+      "Team Battle":{
+        "strategies": {
+        "General": {
+        "description": "A well-rounded character with balanced offense and defense.",
+        "mode1": "General guide content for mode 1...",
+        "mode2": "General guide content for mode 2..."
+      },
+        "Sparking": {
+          "description": "Sparking strategy focuses on aggressive damage output.",
+          "mode1": "Sparking-specific content for mode 1...",
+          "mode2": "Sparking-specific content for mode 2..."
+        },
+        "Fusion": {
+          "description": "Fusion strategy emphasizes combining units to increase synergy.",
+          "mode1": "Fusion-specific content for mode 1...",
+          "mode2": "Fusion-specific content for mode 2..."
+        },
+        "Survivability":{
+          "description": "Survivability strategy focuses on countering and preventing your oponent from entering sparking mode"
+        }
+      }
+      }
+      
+    }
+  }
+}

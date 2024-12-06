@@ -1,0 +1,497 @@
+{
+    "characters": [
+
+
+        {
+            "name": "Goku (Z - Early)",
+            "tier": "Tier: B",
+            "DP": 4,
+            "moveSet": {
+                "skill1": {
+                    "name": "Solar Flare",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "Kaioken",
+                    "skillPoints": 3
+                    
+                },
+                "blast1": {
+                    "name": "Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Kaioken Attack",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Spirit Bomb",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["No Fusion Partners"],
+            "transformations": [
+                "No Transformations"]
+     
+        },
+      
+
+        {
+            "name": "Goku (Z - Mid)",
+            "tier": "Tier: B+",
+            "DP": 5,
+            "moveSet": {
+                "skill1": {
+                    "name": "Give Me Your Energy!",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "I can't Wait!",
+                    "skillPoints": 3
+                    
+                },
+                "blast1": {
+                    "name": "x20 Kaioken Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Kaioken Rush",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Spirit Bomb",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["No Fusion Partners"],
+            "transformations": [
+                "Goku (Z - Mid) Super Saiyan"
+            ]
+        },
+
+
+        {
+            "name": "Goku (Z - Mid) Super Saiyan",
+            "tier": "Tier: S",
+            "DP": 6,
+            "moveSet": {
+                "skill1": {
+                    "name": "Wild Sense",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "Now I'm Angry!",
+                    "skillPoints": 3
+                    
+                },
+                "blast1": {
+                    "name": "Super Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Meteor Smash",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Angry Kamehameha",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["No Fusion Partners"],
+            "transformations": [
+                "Goku (Z - Mid)"
+            ]
+        },
+
+        {
+            "name": "Goku (Z - End)",
+            "tier": "Tier: A",
+            "DP": 5,
+            "moveSet": {
+                "skill1": {
+                    "name": "Instant Transmission",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "Wild Sense",
+                    "skillPoints": 2
+                    
+                },
+                "blast1": {
+                    "name": "Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Meteor Smash",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Super Spirit Bomb",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["Vegeta (Z - End)"],
+            "transformations": [
+                "Goku (Z - End) Super Saiyan", "Goku (Z - End) Super Saiyan 2", "Goku (Z - End) Super Saiyan 3"
+            ]
+        },
+
+        {
+            "name": "Goku (Z - End) Super Saiyan",
+            "tier": "Tier: A",
+            "DP": 6,
+            "moveSet": {
+                "skill1": {
+                    "name": "Wild Sense",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "Saiyan Spirit",
+                    "skillPoints": 3
+                    
+                },
+                "blast1": {
+                    "name": "Super Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Super Energy Wave Combo",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Instant Transmission Kamehameha",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["Vegeta (Z - End)"],
+            "transformations": [
+                "Goku (Z - End)", "Goku (Z - End) Super Saiyan 2", "Goku (Z - End) Super Saiyan 3"
+            ]
+        },
+
+        {
+            "name": "Goku (Z - End) Super Saiyan 2",
+            "tier": "Tier: A+",
+            "DP": 7,
+            "moveSet": {
+                "skill1": {
+                    "name": "Instant Transmission",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "Full Power",
+                    "skillPoints": 3
+                    
+                },
+                "blast1": {
+                    "name": "Instant Transmission Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Meteor Crash",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Super Kamehameha",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["Vegeta (Z - End)"],
+            "transformations": [
+                "Goku (Z - End)", "Goku (Z - End) Super Saiyan", "Goku (Z - End) Super Saiyan 3"
+            ]
+        },
+
+        {
+            "name": "Goku (Z - End) Super Saiyan 3",
+            "tier": "Tier: S",
+            "DP": 8,
+            "moveSet": {
+                "skill1": {
+                    "name": "Instant Transmission",
+                    "skillPoints": 2
+                   
+                },
+                "skill2": {
+                    "name": "Power Up to the Very Limit",
+                    "skillPoints": 3
+                    
+                },
+                "blast1": {
+                    "name": "Super Kamehameha",
+                    "kiCost": 30000
+                },
+                "blast2": {
+                    "name": "Super Dragon Twin Fists",
+                    "kiCost": 30000
+                }
+            },
+            "ultimateSkill": {
+                "name": "Dragon Fist",
+                "kiCost": "50000 (Must be in *SPARKING* mode!"
+            },
+            "fusionPartner": ["Vegeta (Z - End)"],
+            "transformations": [
+                "Goku (Z - End)", "Goku (Z - End) Super Saiyan", "Goku (Z - End) Super Saiyan 2"
+            ]
+        },
+
+        {
+          "name": "Goku (Super)",
+          "tier": "Tier: A",
+          "DP": 5,
+          "moveSet": {
+              "skill1": {
+                  "name": "Instant Transmission",
+                  "skillPoints": 2
+                 
+              },
+              "skill2": {
+                  "name": "All Fired Up",
+                  "skillPoints": 3
+                  
+              },
+              "blast1": {
+                  "name": "Super Kamehameha",
+                  "kiCost": 30000
+              },
+              "blast2": {
+                  "name": "Dragon Burst",
+                  "kiCost": 30000
+              }
+          },
+          "ultimateSkill": {
+              "name": "Super Spirit Bomb",
+              "kiCost": "50000 (Must be in *SPARKING* mode!"
+          },
+          "fusionPartner": ["Vegeta(Super)"],
+          "transformations": [
+              "Goku (Super) Super Saiyan",
+              "Goku (Super) Super Saiyan God",
+              "Goku (Super) SSGSS"
+          ]
+      },
+
+      {
+        "name": "Goku (Super) Super Saiyan",
+        "tier": "Tier: A+",
+        "DP": 6,
+        "moveSet": {
+            "skill1": {
+                "name": "Wild Sense",
+                "skillPoints": 2
+               
+            },
+            "skill2": {
+                "name": "All-Emcompassing Power",
+                "skillPoints": 3
+                
+            },
+            "blast1": {
+                "name": "Super Kamehameha",
+                "kiCost": 30000
+            },
+            "blast2": {
+                "name": "Dragon Blast",
+                "kiCost": 30000
+            }
+        },
+        "ultimateSkill": {
+            "name": "Sonic Blast",
+            "kiCost": "50000 (Must be in *SPARKING* mode!"
+        },
+        "fusionPartner": ["Vegeta(Super)"],
+        "transformations": [
+            "Goku (Super)",
+            "Goku (Super) Super Saiyan God",
+            "Goku (Super) SSGSS"
+        ]
+    },
+
+    {
+        "name": "Goku (Super) Super Saiyan God",
+        "tier": "Tier: A",
+        "DP": 7,
+        "moveSet": {
+            "skill1": {
+                "name": "God Bind",
+                "skillPoints": 2
+               
+            },
+            "skill2": {
+                "name": "Shenron Aura",
+                "skillPoints": 3
+                
+            },
+            "blast1": {
+                "name": "God Kamehameha",
+                "kiCost": 30000
+            },
+            "blast2": {
+                "name": "God Impact",
+                "kiCost": 30000
+            }
+        },
+        "ultimateSkill": {
+            "name": "God Burst Kamehameha",
+            "kiCost": "50000 (Must be in *SPARKING* mode!"
+        },
+        "fusionPartner": ["Vegeta(Super)"],
+        "transformations": [
+            "Goku (Super)",
+            "Goku (Super) Super Saiyan",
+            "Goku (Super) SSGSS"
+        ]
+    },
+
+    {
+        "name": "Goku (Super) SSGSS",
+        "tier": "Tier: A+",
+        "DP": 8,
+        "moveSet": {
+            "skill1": {
+                "name": "Instant Transmission",
+                "skillPoints": 2
+               
+            },
+            "skill2": {
+                "name": "Kaioken",
+                "skillPoints": 3
+                
+            },
+            "blast1": {
+                "name": "God Kamehameha",
+                "kiCost": 30000
+            },
+            "blast2": {
+                "name": "\"No Hard Feelings\" Hit",
+                "kiCost": 30000
+            }
+        },
+        "ultimateSkill": {
+            "name": "Limit Breaker God Kamehameha",
+            "kiCost": "50000 (Must be in *SPARKING* mode!"
+        },
+        "fusionPartner": ["Vegeta(Super)"],
+        "transformations": [
+            "Goku (Super)",
+            "Goku (Super) Super Saiyan",
+            "Goku (Super) Super Saiayan God"
+        ]
+    },
+
+    {
+        "name": "Goku (Super) Ultra Instinct -Sign-",
+        "tier": "Tier: S",
+        "DP": 8,
+        "moveSet": {
+            "skill1": {
+                "name": "Even Greater Potential",
+                "skillPoints": 2
+               
+            },
+            "skill2": {
+                "name": "You'll Never Beat Me",
+                "skillPoints": 3
+                
+            },
+            "blast1": {
+                "name": "Kamehameha -Sign-",
+                "kiCost": 30000
+            },
+            "blast2": {
+                "name": "Flash -Sign-",
+                "kiCost": 30000
+            }
+        },
+        "ultimateSkill": {
+            "name": "Point-Blank Kamehameha",
+            "kiCost": "50000 (Must be in *SPARKING* mode!"
+        },
+        "fusionPartner": [],
+        "transformations": [
+            "Goku (Super) Ultra Intinct"
+          
+        ]
+    },
+
+      {
+        "name": "Vegeta(Super)",
+        "tier": "Tier: A",
+        "DP": 5,
+        "moveSet": {
+            "skill1": {
+                "name": "Instant Transmission",
+                "skillPoints": 2
+               
+            },
+            "skill2": {
+                "name": "Warm-up",
+                "skillPoints": 3
+                
+            },
+            "blast1": {
+                "name": "Kamehameha",
+                "kiCost": 30000
+            },
+            "blast2": {
+                "name": "Dragon Blast",
+                "kiCost": 30000
+            }
+        },
+        "ultimateSkill": {
+            "name": "Super Spirit Bomb",
+            "kiCost": "50000(Must be in *SPARKING* mode!)"
+        },
+        "fusionPartner": ["Vegeta(Super)"],
+        "transformations": [
+            "Goku(Super) Super Saiyan",
+            "Goku(Super) Super Saiyan God",
+            "Goku(Super) SSGSS"
+        ]
+      },
+      {
+        "name": "Frieza(Super)",
+        "tier": "Tier: A",
+        "DP": 6,
+        "moveSet": {
+            "skill1": {
+                "name": "Instant Transmission",
+                "skillPoints": 2
+               
+            },
+            "skill2": {
+                "name": "Warm-up",
+                "skillPoints": 3
+                
+            },
+            "blast1": {
+                "name": "Kamehameha",
+                "kiCost": 30000
+            },
+            "blast2": {
+                "name": "Dragon Blast",
+                "kiCost": 30000
+            }
+        },
+        "ultimateSkill": {
+            "name": "Super Spirit Bomb",
+            "kiCost": "50000(Must be in *SPARKING* mode!)"
+        },
+        "fusionPartner": null,
+        "transformations": [
+            "Goku(Super) Super Saiyan",
+            "Goku(Super) Super Saiyan God",
+            "Goku(Super) SSGSS"
+        ]
+      }
+    ]
+}
+
+  
